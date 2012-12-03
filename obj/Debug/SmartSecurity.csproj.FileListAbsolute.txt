@@ -1,0 +1,5 @@
+E:\GitHub\SmartSecurity\bin\Debug\Smart.Security.XML
+E:\GitHub\SmartSecurity\bin\Debug\Smart.Security.dll
+E:\GitHub\SmartSecurity\bin\Debug\Smart.Security.pdb
+E:\GitHub\SmartSecurity\obj\Debug\Smart.Security.dll
+E:\GitHub\SmartSecurity\obj\Debug\Smart.Security.pdb
